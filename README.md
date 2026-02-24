@@ -50,7 +50,6 @@ After preparing the data, exploratory data analysis was conducted to identify pa
 - Summary statistics  
 - Data aggregation  
 - Trend analysis  
-- Excel charts and visualizations  
 - Business insight extraction  
 
 📁 File:  
